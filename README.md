@@ -50,7 +50,7 @@ FraudTitan provides a foundational model that can be further refined and integra
 
 ### Repository Link
 
-[GitHub Repository](https://github.com/NikhilKumarSaini/FraudTittan---Online-Payment-Fraud-Detection-System.git)
+[GitHub Repository](https://github.com/dhanipkumarsharma/FraudTitan---Fraud-Detection-System)
 
 ### Author
 
